@@ -1,0 +1,5 @@
+# Prod Config
+INSTANCE_TYPE=t2.medium
+JAVA_VERSION=21
+REPO_URL=https://github.com/Trainings-TechEazy/test-repo-for-devops
+STOP_AFTER=10800   # Auto shutdown after 3 hours

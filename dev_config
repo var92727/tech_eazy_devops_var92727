@@ -1,0 +1,5 @@
+# Dev Config
+INSTANCE_TYPE=t2.micro
+JAVA_VERSION=21
+REPO_URL=https://github.com/Trainings-TechEazy/test-repo-for-devops
+STOP_AFTER=3600   # Auto shutdown after 1 hour
